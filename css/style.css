@@ -4,13 +4,15 @@
 }
 
 body{
-  height: 100vh;
-  background-color: #252525;
-  color: #f0f0f0
+  height: auto;
+  /* background-color: #252525; */
+  background-color: #000;
+  /* color: #00ff40 */
+  color: #ff0f00
 }
 
 .art{
-  font-size: 2vh;
+  font-size: 1vh;
   display: flex;
   align-items: center;
   justify-content: center;
